@@ -48,4 +48,4 @@
 
 
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Aarushijain-06&show_icons=true&locale=en" alt="Aarushijain-06" ></p>
+
