@@ -7,7 +7,7 @@
 <h1>About Me</h1>
 
 <p>
- I'm an undergraduate student in Electronics and Telecommunication Engineering interested in Web Development and competitive coding. 
+ I'm an undergraduate student in Electronics and Telecommunication Engineering interested in Web Development and competitive programming. 
 </p>
 
 
